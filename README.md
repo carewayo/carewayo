@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carewayo
-- 👀 I’m interested in Cloud computing, Software development and Cybersecurity
-- 🌱 I just passed the AWS Solutions Architect Associate certificate and I am currently learning Kubernetes
+- 👀 I am a Cloud computing and Software Engineering
+- 🌱 I have AWS certificates and work experience in EKS
 - 💞️ I’m looking to collaborate on designing resilient and highly scalable applications
 - 📫 You can reach me at: carewayodeji@yahoo.com or Linkedin profile: www.linkedin.com/in/carewayo
 
